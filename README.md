@@ -138,5 +138,5 @@ device.complianceState -eq "compliant"
 `Reports > Device compliance > Select your policy`
 
 **Customization Ideas**
-- Adjust free space threshold in Check-LowDisk.ps1
+- Adjust free space threshold 
 
